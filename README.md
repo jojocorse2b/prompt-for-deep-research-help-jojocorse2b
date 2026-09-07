@@ -7,7 +7,7 @@ One sentence in your terminal → structured, context-aware research prompt on y
 ## Install
 
 ```bash
-npx skills add jojocorse2b/deep-research-skill
+npx skills add jojocorse2b/prompt-for-deep-research-help-jojocorse2b
 ```
 
 Works with Codex, Claude Code, Cursor, GitHub Copilot, Cline and other compatible agent hosts.
