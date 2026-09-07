@@ -1,0 +1,7 @@
+.claude/
+.agents/
+skills-lock.json
+.research-prompts/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
