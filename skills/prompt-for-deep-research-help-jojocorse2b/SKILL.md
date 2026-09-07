@@ -1,5 +1,5 @@
 ---
-name: deep-research
+name: prompt-for-deep-research-help-jojocorse2b
 description: Generate safe, context-aware Deep Research prompts for complex technical, product, business, scientific, legal, or market questions.
 ---
 
@@ -81,4 +81,3 @@ python scripts/build_prompt.py "research question" \
 
 Read [prompt-format.md](../../references/prompt-format.md) when a custom
 template or output contract is needed.
-

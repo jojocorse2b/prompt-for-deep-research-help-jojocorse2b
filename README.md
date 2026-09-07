@@ -7,7 +7,7 @@ One sentence in your terminal → structured, context-aware research prompt on y
 ## Install
 
 ```bash
-npx skills add your-account/deep-research-skill
+npx skills add jojocorse2b/deep-research-skill
 ```
 
 Works with Codex, Claude Code, Cursor, GitHub Copilot, Cline and other compatible agent hosts.
@@ -144,7 +144,7 @@ Ask to refine ("make it more focused on cost", "add a security angle") and it ad
 
 ### Manual install (Claude Code)
 
-Copy `skills/deep-research/SKILL.md` to `~/.claude/skills/deep-research/SKILL.md`.
+Copy `skills/prompt-for-deep-research-help-jojocorse2b/SKILL.md` to `~/.claude/skills/prompt-for-deep-research-help-jojocorse2b/SKILL.md`.
 
 ## License
 
